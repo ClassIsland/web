@@ -1,4 +1,4 @@
-# ClassIsLand
+# ClassIsland
 
 ## Project setup
 ```
