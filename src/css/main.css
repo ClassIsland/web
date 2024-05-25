@@ -361,10 +361,6 @@ table td {
     background-image: url(../img/home-pc_1.webp.jpg);
 }
 
-@font-face {
-    font-family: "YOUSHE";
-    src: url("../font/YouSheBiaoTiHei-2.ttf");
-}
 .programmer{
     position: absolute;
     z-index: 99;
