@@ -1,4 +1,4 @@
-# ClassIsland
+# ClassIsland [官网🔗](https://classisland.tech)
 
 ## Project setup
 ```
