@@ -1,4 +1,4 @@
-# www
+# ClassIsLand
 
 ## Project setup
 ```
